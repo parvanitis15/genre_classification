@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/parvanitis/Documents/genre_classification/starter/mlruns/0/f673288f202e463dad44593382280b34/artifacts
+end_time: 1696318825418
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f673288f202e463dad44593382280b34
+run_name: unruly-pig-715
+run_uuid: f673288f202e463dad44593382280b34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696318408800
+status: 3
+tags: []
+user_id: parvanitis

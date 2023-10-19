@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/parvanitis/Documents/genre_classification/starter/mlruns/0/212ce76052734a9ab590cf0d1248572e/artifacts
+end_time: 1696322254368
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 212ce76052734a9ab590cf0d1248572e
+run_name: ambitious-snail-986
+run_uuid: 212ce76052734a9ab590cf0d1248572e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696322253135
+status: 4
+tags: []
+user_id: parvanitis

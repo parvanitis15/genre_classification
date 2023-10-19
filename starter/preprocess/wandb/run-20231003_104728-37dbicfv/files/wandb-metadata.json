@@ -1,0 +1,33 @@
+{
+    "os": "Linux-5.15.90.1-microsoft-standard-WSL2-x86_64-with-glibc2.31",
+    "python": "3.9.18",
+    "heartbeatAt": "2023-10-03T07:47:29.947842",
+    "startedAt": "2023-10-03T07:47:28.744122",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU",
+    "gpu_count": 1,
+    "cpu_count": 16,
+    "cuda": null,
+    "args": [
+        "--input_artifact",
+        "raw_data.parquet:latest",
+        "--artifact_name",
+        "processed_data.csv",
+        "--artifact_type",
+        "processed_data",
+        "--artifact_description",
+        "Data after preprocessing"
+    ],
+    "state": "running",
+    "program": "/home/parvanitis/repos/genre_classification/starter/preprocess/run.py",
+    "codePath": "starter/preprocess/run.py",
+    "git": {
+        "remote": "https://github.com/parvanitis15/genre_classification.git",
+        "commit": "4297c1ea03075fe8984e905e5b6d2fd86d19def8"
+    },
+    "email": null,
+    "root": "/home/parvanitis/repos/genre_classification",
+    "host": "LAPTOP-OQ9RQTP7",
+    "username": "parvanitis",
+    "executable": "/home/parvanitis/miniconda3/envs/mlflow-8b768d8d34070ad315db9681836fad4f03afbc74/bin/python"
+}

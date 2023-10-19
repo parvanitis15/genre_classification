@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/parvanitis/Documents/genre_classification/starter/mlruns/0/7296fc3d2c3c4ce7b70d3451a4d25fb1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7296fc3d2c3c4ce7b70d3451a4d25fb1
+run_name: thoughtful-wolf-510
+run_uuid: 7296fc3d2c3c4ce7b70d3451a4d25fb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696320982279
+status: 1
+tags: []
+user_id: parvanitis

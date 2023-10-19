@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/parvanitis/Documents/genre_classification/starter/mlruns/0/7a9db0a9f3744348a858a8c1372c85ca/artifacts
+end_time: 1696318825284
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a9db0a9f3744348a858a8c1372c85ca
+run_name: burly-lynx-113
+run_uuid: 7a9db0a9f3744348a858a8c1372c85ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696318702317
+status: 3
+tags: []
+user_id: parvanitis

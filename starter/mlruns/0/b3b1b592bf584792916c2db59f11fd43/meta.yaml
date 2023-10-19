@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/parvanitis/Documents/genre_classification/starter/mlruns/0/b3b1b592bf584792916c2db59f11fd43/artifacts
+end_time: 1696322171405
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b3b1b592bf584792916c2db59f11fd43
+run_name: handsome-shark-424
+run_uuid: b3b1b592bf584792916c2db59f11fd43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696322169950
+status: 4
+tags: []
+user_id: parvanitis

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/parvanitis/Documents/genre_classification/starter/mlruns/0/ae9349ac6fa84bf5806564f87018cdeb/artifacts
+end_time: 1696321746034
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae9349ac6fa84bf5806564f87018cdeb
+run_name: flawless-colt-350
+run_uuid: ae9349ac6fa84bf5806564f87018cdeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696320980642
+status: 4
+tags: []
+user_id: parvanitis

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/parvanitis/Documents/genre_classification/starter/mlruns/0/9c40200bba2b4308a77fe7d43c4fa788/artifacts
+end_time: 1696320828618
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9c40200bba2b4308a77fe7d43c4fa788
+run_name: monumental-ray-850
+run_uuid: 9c40200bba2b4308a77fe7d43c4fa788
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696320827061
+status: 4
+tags: []
+user_id: parvanitis
